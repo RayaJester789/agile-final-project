@@ -7,16 +7,13 @@ assignees: ''
 ---
 
 ## User Story
-As a _____  
-I need _____  
-So that _____  
+As a 
+I need
+So that
 
 ## Acceptance Criteria (Given / When / Then)
-- Given _____  
-  When _____  
-  Then _____  
+Given 
+When  
+Then
 
 ## Notes  
-- [Add any relevant context or links]
-
-Add user story issue template
